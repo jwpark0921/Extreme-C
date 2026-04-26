@@ -1,4 +1,4 @@
-// File name: ExtremeC_exampels_chapter4_7.c
+// File name: ExtremeC_examples_chapter4_7.c
 // Description: Example 4.7
 
 #include <unistd.h> // Needed for sleep function

@@ -1,4 +1,4 @@
-// File name: ExtremeC_exampels_chapter1_1.c
+// File name: ExtremeC_examples_chapter1_1.c
 // Description: Example 1.1
 
 #define ABC 5

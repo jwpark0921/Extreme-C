@@ -1,4 +1,4 @@
-// File name: ExtremeC_exampels_chapter1_11.c
+// File name: ExtremeC_examples_chapter1_11.c
 // Description: Example 1.11
 
 #include <stdio.h>

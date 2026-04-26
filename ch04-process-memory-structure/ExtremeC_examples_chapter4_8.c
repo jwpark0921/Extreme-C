@@ -1,4 +1,4 @@
- // File name: ExtremeC_exampels_chapter4_8.c
+ // File name: ExtremeC_examples_chapter4_8.c
  // Description: Example 4.8
  
 #include <stdio.h>   // For printf function

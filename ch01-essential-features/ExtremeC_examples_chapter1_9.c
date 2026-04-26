@@ -1,4 +1,4 @@
-// File name: ExtremeC_exampels_chapter1_9.c
+// File name: ExtremeC_examples_chapter1_9.c
 // Description: Example 1.9
 
 int main(int argc, char** argv) {

@@ -1,4 +1,4 @@
-// File name: ExtremeC_exampels_chapter1_2.c
+// File name: ExtremeC_examples_chapter1_2.c
 // Description: Example 1.2
 
 #define ADD(a, b) a + b
