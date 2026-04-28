@@ -7,7 +7,7 @@ void print_bytes(void* data, size_t length) {
   char delim = ' ';
   unsigned char* ptr = data;
   for (size_t i = 0; i < length; i++) {
-    printf("%c 0x%x", delim, *ptr);
+    printf("%c 0x%02x", delim, *ptr);
     delim = ',';
     ptr++;
   }
